@@ -1,4 +1,4 @@
-package com.leshion.bridge;
+package com.leshion.bridge.github.example;
 
 import lombok.extern.slf4j.Slf4j;
 

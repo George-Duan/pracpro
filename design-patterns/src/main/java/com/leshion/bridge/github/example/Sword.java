@@ -1,4 +1,4 @@
-package com.leshion.bridge;
+package com.leshion.bridge.github.example;
 
 public class Sword implements Weapon{
 
