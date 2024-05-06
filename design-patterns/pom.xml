@@ -55,7 +55,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.leshion.App</mainClass>
+                                    <mainClass>com.artbook.App</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>
